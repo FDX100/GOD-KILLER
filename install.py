@@ -18,3 +18,4 @@ if choice == "N" or choice == "n":
     run("rm -r /usr/share/god-killer ")
     run("rm /usr/bin/GOD-KILLER ")
     print("[!] now GOD-KILLER has been removed successfully")
+
