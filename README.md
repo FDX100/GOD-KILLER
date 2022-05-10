@@ -2,12 +2,18 @@
 
 This fork was made to publish the original code using reverse engineering.
 
-### Usage:
-```
+### Installation:
+```bash
 git clone https://github.com/CaraTortu/GOD-KILLER.git
 cd GOD-KILLER
-python2 God-killer.py
 ```
 
+### Usage original/python2 :
+```bash
+python2 Original-py2/God-killer.py
+```
 
-
+### Usage Cleaned/python3 :
+```bash
+python2 Cleaned-py3/God-killer.py
+```
