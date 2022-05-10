@@ -49,7 +49,7 @@ def CustomSms(phone_number, country_code, msg):
         'key': 'textbelt'
     }
     response = requests.post(url, json=params)
-    if 'Only' in response.content:
+    if 'Only' in response.text:
         print('[!] Sorry, today a message was sent to this phone number ' + country_code + phone_number)
     else:
         print('[+] Your message has been sent succesfully')
