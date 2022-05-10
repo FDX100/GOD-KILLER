@@ -58,7 +58,7 @@ def CustomSms(phone_number, country_code, msg):
 match choice:
     case '1':
         no = 0
-        for i in range(input('[+] Messages to send >> ')):
+        for i in range(int(input('[+] Messages to send >> '))):
             sms_sender(phone_number, country_code, random.randint(1, 3))
     case '2':
         msg = input('[+] Your custom message >> ')
