@@ -1,22 +1,22 @@
 # GOD-KILLER
-simple SMS-BOMBER and SMS Sender made with python work for Windows and Linux
 
-### Linux Usage:
-```
-https://github.com/FDX100/GOD-KILLER.git
+This fork was made to publish the original code using reverse engineering.
+
+The spam sms does NOT work. The custom message does.
+To be able to send more than 1 message per day you have to create an account. If you do then change the key with your api key.
+
+### Installation:
+```bash
+git clone https://github.com/CaraTortu/GOD-KILLER.git
 cd GOD-KILLER
-python install.py
-GOD-KILLER
 ```
-### Windows Usage:
+
+### Usage original/python2 :
+```bash
+python2 Original-py2/God-killer.py
 ```
-just download exe file and run it 
+
+### Usage Cleaned/python3 :
+```bash
+python2 Cleaned-py3/God-killer.py
 ```
-![sh](https://github.com/FDX100/GOD-KILLER/blob/master/Screenshot%20from%202019-08-16%2002-46-54.png)
-![sh](https://github.com/FDX100/GOD-KILLER/blob/master/Screenshot%20from%202019-08-16%2002-47-15.png)
-![sh](https://github.com/FDX100/GOD-KILLER/blob/master/Screenshot%20from%202019-08-16%2002-47-30.png)
-![sh](https://github.com/FDX100/GOD-KILLER/blob/master/Screenshot%20from%202019-08-16%2002-47-53.png)
-
-
-
-
