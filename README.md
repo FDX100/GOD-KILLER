@@ -1,4 +1,6 @@
 # GOD-KILLER
+
+i am not supporting this tool anymore!!
 simple SMS-BOMBER and SMS Sender made with python work for Windows and Linux
 
 ### Linux Usage:
